@@ -1,6 +1,10 @@
-# Java Low-Level Design Practice
+# java-lld-design-patterns
 
 A Java practice repository for object-oriented programming, design patterns, multithreading, and low-level design case studies. The repository contains small focused examples along with larger design exercises such as Parking Lot and Tic Tac Toe.
+
+## Portfolio Role
+
+This repository is maintained by Mamani Kedarnath as a Java low-level design portfolio project focused on OOP, design patterns, multithreading, and machine-coding case studies.
 
 ## Topics Covered
 
